@@ -1,3 +1,9 @@
+A simple web app using React.
+JSON placeholder API (https://jsonplaceholder.typicode.com/users)
+RoboHash API (https://robohash.org/1?set=set1)
+Google Fonts (https://fonts.google.com/specimen/Bigelow+Rules)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
