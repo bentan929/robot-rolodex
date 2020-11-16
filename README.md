@@ -1,6 +1,9 @@
 A simple web app using React.
+
 JSON placeholder API (https://jsonplaceholder.typicode.com/users)
+
 RoboHash API (https://robohash.org/1?set=set1)
+
 Google Fonts (https://fonts.google.com/specimen/Bigelow+Rules)
 
 
